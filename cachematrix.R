@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Basically I took the example function and edited it to fit the matrix
+
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
